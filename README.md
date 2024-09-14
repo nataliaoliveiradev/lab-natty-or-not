@@ -16,6 +16,7 @@ Este projeto explora o uso de Inteligência Artificial Generativa na criação d
 ## 🚀 Resultados
 A imagem resultante mostra como é possível gerar um conteúdo visual sofisticado e altamente estilizado utilizando IA. O traje da modelo foi desenhado com uma estética que mistura volume, minimalismo e modernidade, representando o potencial da IA em criar visuais de moda vanguardistas.
 
+Link da imagem: https://github.com/nataliaoliveiradev/lab-natty-or-not/blob/main/6.jpg 
 
 ## 💭 Reflexão
 O desafio mais interessante desse projeto foi equilibrar o toque humano com o poder da IA. Embora a IA generativa tenha feito um trabalho impressionante em criar a imagem base, os ajustes manuais ainda foram necessários para aperfeiçoar a apresentação final. Isso mostra que, embora a IA seja uma ferramenta poderosa, o toque humano continua sendo um diferencial importante no processo criativo.
